@@ -1,6 +1,8 @@
 # Udacity Capstone Project 
 # Machine Learning Nanodegree 2018
 
+Article Medium Link : https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7
+
 This directory contain all code that was used for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Program. 
 
 The folder [Notebooks](Notebooks/) contains all of the Jupyter Notebooks used in the project. 
